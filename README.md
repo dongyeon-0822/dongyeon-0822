@@ -1,4 +1,4 @@
-## DongYeon Kang's GitHub 🤗 
+## DongYeon Kang's GitHub 👩🏻‍💻
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjue)](https://solved.ac/myjue/)
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 <br/>
 
-### Tools
+### 🔫 Tools
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
