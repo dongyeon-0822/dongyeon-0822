@@ -29,6 +29,7 @@
 | Tools | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=fff"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=fff"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=fff"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=fff"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=fff"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff"/> |
 
 ### :trophy: Awards
+- (2024/08/07) 2024년 국민행복 서비스 발굴·창업 경진대회 [최우수상] - 보건복지부 & 한국사회보장정보원(SSIS)
 - (2023/12/15) 2023년도 겨울 ICIP&캡스톤디자인 [우수상] - 동국대학교 SW교육원
 - (2022/11/05) 제 5회 KB국민은행 소프트웨어 경진대회 [우수상] - KB국민은행 & 사피엔스
 - (2021/11/30) 2021년 공개 SW 개발자대회 [동상] - 과학기술정보통신부
